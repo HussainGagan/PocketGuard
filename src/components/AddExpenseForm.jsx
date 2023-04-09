@@ -69,7 +69,7 @@ export default function AddExpenseForm({ budgets }) {
             <span>Submitting...</span>
           ) : (
             <>
-              <span>Create Budget</span>
+              <span>Create Expense</span>
               <PlusCircleIcon width={20} />
             </>
           )}
